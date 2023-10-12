@@ -15,3 +15,21 @@ C:\Users\andre\OneDrive\Escritorio\AIEP\Taller de programacion\ejercicios\progra
 C:\Users\andre\OneDrive\Escritorio\AIEP\Taller de programacion\ejercicios\programas\ConsultaAmortizacionPrestamos\Simulador Consulta Amortizacion\obj\Debug\net6.0-windows\Simulador Consulta Amortizacion.genruntimeconfig.cache
 C:\Users\andre\OneDrive\Escritorio\AIEP\Taller de programacion\ejercicios\programas\ConsultaAmortizacionPrestamos\Simulador Consulta Amortizacion\obj\Debug\net6.0-windows\ref\Simulador Consulta Amortizacion.dll
 C:\Users\andre\OneDrive\Escritorio\AIEP\Taller de programacion\ejercicios\programas\ConsultaAmortizacionPrestamos\Simulador Consulta Amortizacion\obj\Debug\net6.0-windows\Simulador_Consulta_Amortizacion.Properties.Resources.resources
+C:\Users\Connors\Documents\proyectos-aiep\Prueba4\Simulador Consulta Amortizacion\obj\Debug\net6.0-windows\Simulador Consulta Amortizacion.csproj.AssemblyReference.cache
+C:\Users\Connors\Documents\proyectos-aiep\Prueba4\Simulador Consulta Amortizacion\obj\Debug\net6.0-windows\Simulador_Consulta_Amortizacion.Consulta_Amortizacion_Prestamo.resources
+C:\Users\Connors\Documents\proyectos-aiep\Prueba4\Simulador Consulta Amortizacion\obj\Debug\net6.0-windows\Simulador_Consulta_Amortizacion.Properties.Resources.resources
+C:\Users\Connors\Documents\proyectos-aiep\Prueba4\Simulador Consulta Amortizacion\obj\Debug\net6.0-windows\Simulador Consulta Amortizacion.csproj.GenerateResource.cache
+C:\Users\Connors\Documents\proyectos-aiep\Prueba4\Simulador Consulta Amortizacion\obj\Debug\net6.0-windows\Simulador Consulta Amortizacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Connors\Documents\proyectos-aiep\Prueba4\Simulador Consulta Amortizacion\obj\Debug\net6.0-windows\Simulador Consulta Amortizacion.AssemblyInfoInputs.cache
+C:\Users\Connors\Documents\proyectos-aiep\Prueba4\Simulador Consulta Amortizacion\obj\Debug\net6.0-windows\Simulador Consulta Amortizacion.AssemblyInfo.cs
+C:\Users\Connors\Documents\proyectos-aiep\Prueba4\Simulador Consulta Amortizacion\obj\Debug\net6.0-windows\Simulador Consulta Amortizacion.csproj.CoreCompileInputs.cache
+C:\Users\Connors\Documents\proyectos-aiep\Prueba4\Simulador Consulta Amortizacion\obj\Debug\net6.0-windows\Simulador Consulta Amortizacion.dll
+C:\Users\Connors\Documents\proyectos-aiep\Prueba4\Simulador Consulta Amortizacion\obj\Debug\net6.0-windows\refint\Simulador Consulta Amortizacion.dll
+C:\Users\Connors\Documents\proyectos-aiep\Prueba4\Simulador Consulta Amortizacion\obj\Debug\net6.0-windows\Simulador Consulta Amortizacion.pdb
+C:\Users\Connors\Documents\proyectos-aiep\Prueba4\Simulador Consulta Amortizacion\bin\Debug\net6.0-windows\Simulador Consulta Amortizacion.exe
+C:\Users\Connors\Documents\proyectos-aiep\Prueba4\Simulador Consulta Amortizacion\bin\Debug\net6.0-windows\Simulador Consulta Amortizacion.deps.json
+C:\Users\Connors\Documents\proyectos-aiep\Prueba4\Simulador Consulta Amortizacion\bin\Debug\net6.0-windows\Simulador Consulta Amortizacion.runtimeconfig.json
+C:\Users\Connors\Documents\proyectos-aiep\Prueba4\Simulador Consulta Amortizacion\bin\Debug\net6.0-windows\Simulador Consulta Amortizacion.dll
+C:\Users\Connors\Documents\proyectos-aiep\Prueba4\Simulador Consulta Amortizacion\bin\Debug\net6.0-windows\Simulador Consulta Amortizacion.pdb
+C:\Users\Connors\Documents\proyectos-aiep\Prueba4\Simulador Consulta Amortizacion\obj\Debug\net6.0-windows\Simulador Consulta Amortizacion.genruntimeconfig.cache
+C:\Users\Connors\Documents\proyectos-aiep\Prueba4\Simulador Consulta Amortizacion\obj\Debug\net6.0-windows\ref\Simulador Consulta Amortizacion.dll

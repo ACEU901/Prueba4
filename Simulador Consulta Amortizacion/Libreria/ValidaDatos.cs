@@ -31,7 +31,7 @@ namespace Simulador_Consulta_Amortizacion.Libreria
                 }
                 else
                 {
-                    return "Debe ingresar " + nombreVar + "numerico entero";
+                    return "Debe ingresar " + nombreVar + " numerico entero";
                 }
             }
         }
@@ -57,7 +57,7 @@ namespace Simulador_Consulta_Amortizacion.Libreria
                 }
                 else
                 {
-                    return "Debe ingresar " + nombreVar + " numerico con decimales";
+                    return "Debe ingresar " + nombreVar + " numerico \ncon decimales";
                 }
             }
 

@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\andre\\.nuget\\packages\\": {}
+    "C:\\Users\\Connors\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Escritorio\\AIEP\\Taller de programacion\\ejercicios\\programas\\ConsultaAmortizacionPrestamos\\Simulador Consulta Amortizacion\\Simulador Consulta Amortizacion.csproj",
+      "projectUniqueName": "C:\\Users\\Connors\\Documents\\proyectos-aiep\\Prueba4\\Simulador Consulta Amortizacion\\Simulador Consulta Amortizacion.csproj",
       "projectName": "Simulador Consulta Amortizacion",
-      "projectPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\AIEP\\Taller de programacion\\ejercicios\\programas\\ConsultaAmortizacionPrestamos\\Simulador Consulta Amortizacion\\Simulador Consulta Amortizacion.csproj",
-      "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\AIEP\\Taller de programacion\\ejercicios\\programas\\ConsultaAmortizacionPrestamos\\Simulador Consulta Amortizacion\\obj\\",
+      "projectPath": "C:\\Users\\Connors\\Documents\\proyectos-aiep\\Prueba4\\Simulador Consulta Amortizacion\\Simulador Consulta Amortizacion.csproj",
+      "packagesPath": "C:\\Users\\Connors\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Connors\\Documents\\proyectos-aiep\\Prueba4\\Simulador Consulta Amortizacion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Connors\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
